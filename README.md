@@ -2,18 +2,15 @@
 
 ####OSHW documents for everyone to enjoy
 
-compliant with the following **rules**:
+compliant with the following:
 
 1. possible **formats**:
   - if not exceeding 50 lines: Markdown
-  - PDF and/or EPUB files (LaTeX-generated, unique class to be determined)
+  - PDF and EPUB files (LaTeX-generated, unique class to be determined)
 2. english **language**
 3. structurally **complete** (subjective)
 
-the aim here is to cultivate the following qualities: 
-- completeness
-- readability
-- uniformity
+the aim here is to cultivate completeness, readability and uniformity
 
 ##folder *SOURCE*
 
