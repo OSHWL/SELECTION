@@ -6,8 +6,7 @@ compliant with the following **rules**:
 
 1. possible **formats**:
   - if not exceeding 50 lines: Markdown
-  - LaTeX-generated PDF (A4 pages, unique class to be determined)
-  - EPUB
+  - PDF and/or EPUB files (LaTeX-generated, unique class to be determined)
 2. english **language**
 3. structurally **complete** (subjective)
 
