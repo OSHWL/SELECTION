@@ -1,19 +1,15 @@
 #*SELECTION*
 
-####OSHW documents for everyone to enjoy
+**OSHW documents for everyone to enjoy**
 
-compliant with the following:
-
-1. possible **formats**:
+possible formats:
   - if not exceeding 50 lines: Markdown
-  - PDF and EPUB files (LaTeX-generated, unique class to be determined)
-2. english **language**
-3. structurally **complete** (subjective)
+  - PDF and EPUB files (LaTeX-generated, unique class to be determined) 
 
-the aim here is to cultivate completeness, readability and uniformity
+language: english
+
+important: completeness, readability
 
 ##folder *SOURCE*
 
-####all source files of documents in folder *SELECTION*
-
-for anyone to meddle with
+all source files of documents in folder *SELECTION*, for anyone to meddle with
